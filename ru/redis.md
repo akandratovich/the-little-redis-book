@@ -31,9 +31,9 @@ The Little Redis Book (Маленькая книга о Redis) распрост�
 Я благодарен следующим людям за помощь в переводе оригинального текста и вычитке результата:
 
 
-[https://github.com/scriptin](Dmitry Scriptin)
-[https://github.com/saippuakauppias](Денис Веселов)
-[https://github.com/polinom](polinom)
+ - [Dmitry Scriptin](https://github.com/scriptin)
+ - [Денис Веселов](https://github.com/saippuakauppias)
+ - [polinom](https://github.com/polinom)
 
 ### Актуальная версия
 
